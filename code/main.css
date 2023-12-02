@@ -1,0 +1,34 @@
+@font-face {
+    font-family: mitr;
+    src: url(/fonts/Mitr-Light.woff);
+}
+
+* {
+    font-family: mitr;
+}
+
+#toolbar {
+    background-color: rgba(0 ,0 ,0,0.3 );
+    backdrop-filter: blur(5px);
+}
+
+#home-mn:current {
+    font-weight: bold;
+    color: red;
+}
+
+#about-box {
+    background-color: rgba(0 ,0 ,0,0.3 );
+}
+
+#about-box2 {
+    background-color: rgba(0 ,0 ,0,0.3 );
+}
+
+#atomic-mean {
+    background-color: rgba(0 ,0 ,0,0.3 );
+}
+
+#footer {
+    background-color: rgba(0 ,0 ,0,0.3 );
+}
